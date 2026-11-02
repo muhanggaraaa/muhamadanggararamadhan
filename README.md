@@ -54,6 +54,26 @@
 
 ---
 
+## 🏆 Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamadanggararamadhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophy" />
+</p>
+
+---
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadanggararamadhan/muhamadanggararamadhan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadanggararamadhan/muhamadanggararamadhan/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/muhamadanggararamadhan/muhamadanggararamadhan/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📫 Kontak
 
 <p>
